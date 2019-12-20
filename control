@@ -1,0 +1,11 @@
+Package: com.nito.ccnetwork
+Name: CCNetwork
+Depends: mobilesubstrate, com.nito.tvcontrolcenter (>=1.1), firmware (>= 13.0), com.nito.tvsettings-link
+Version: 1.0
+Architecture: appletvos-arm64
+Description: Quick access to network settings through control center
+Maintainer: Kevin Bradley
+Author: Kevin Bradley
+Section: Tweaks
+Depiction: https://nitosoft.com/ATV4/netcc/netcc.json
+Icon: https://nitosoft.com/ATV4/netcc/icon.png
